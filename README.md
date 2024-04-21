@@ -6,7 +6,7 @@
 
 📫 You can reach out to me via officer47p@gmail.com or connect on LinkedIn.
 
-🔗 Explore my projects and contributions here on GitHub. If you have any questions or want to chat, feel free to reach out.
+🔗 Explore my projects and contributions here on GitHub. Feel free to reach out if you have any questions or want to chat.
 
 
 
