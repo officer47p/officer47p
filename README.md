@@ -1,6 +1,11 @@
 Software engineer in the tech industry.
+
 Creating and contributing to open-source projects is my main hobby.
+
 Experienced in various programming languages, including JavaScript, TypeScript, Python, Perl, Dart, and Golang.
+
+I do my DevOps myself.
+
 You can reach out to me via officer47p@gmail.com or connect on LinkedIn.
 
 
