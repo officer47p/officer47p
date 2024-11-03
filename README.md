@@ -1,12 +1,8 @@
-👋 Hi, I'm Parsa, a software engineer with 5 years of experience in the tech industry. My passion lies in creating and contributing to open-source projects. I have expertise in various programming languages, including JavaScript, TypeScript, Python, Perl, Dart, and Golang.
+Software engineer in the tech industry.
+Creating and contributing to open-source projects is my main hobby.
+Experienced in various programming languages, including JavaScript, TypeScript, Python, Perl, Dart, and Golang.
+You can reach out to me via officer47p@gmail.com or connect on LinkedIn.
 
-🚀 I'm the creator of the "open-payment-gateway" project, an open-source payment gateway built in Go, designed to make online crypto payment processing easy and flexible.
-
-🌟 I'm always excited to collaborate and learn from the open-source community. Let's build great software together!
-
-📫 You can reach out to me via officer47p@gmail.com or connect on LinkedIn.
-
-🔗 Explore my projects and contributions here on GitHub. Feel free to reach out if you have any questions or want to chat.
 
 
 
