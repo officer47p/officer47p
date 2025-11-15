@@ -1,15 +1,6 @@
-Software engineer in the tech industry.
-
-Creating and contributing to open-source projects is my main hobby.
-
-Experienced in various programming languages, including JavaScript, TypeScript, Python, Perl, Dart, and Golang.
-
-I do my DevOps myself.
-
-You can reach out to me via officer47p@gmail.com or connect on LinkedIn.
-
-
-
+Language-agnostic Software Engineer with 4+ years of experience building scalable distributed systems in Go, Typescript, Perl, and Python, with a strong background in AI agents, blockchain (EVM & SVM), backend architecture, and cloud infrastructure. 
+Proven ability to take ownership of complex systems, improve reliability, reduce costs, and deliver production features end-to-end. 
+Passionate about high-performance systems, test-driven development, and clean architecture.
 
 
 
