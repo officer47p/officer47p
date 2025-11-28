@@ -1,10 +1,31 @@
-Senior Software Engineer with over four years of experience designing, building, and maintaining scalable distributed systems. Proficient in Go, TypeScript, Python, and Perl, with deep expertise in backend architecture, cloud infrastructure (AWS/GCP), AI agent development, and blockchain protocols (EVM and Solana/SVM).
-Consistently deliver high-impact, production-grade solutions by:
+# Senior Software Engineer
 
-Leading end-to-end feature development and system migrations
-Improving reliability, observability, and performance of critical services
-Reducing infrastructure costs while maintaining strict uptime requirements
-Advocating for clean architecture, comprehensive testing, and sustainable velocity
+**Language-agnostic** engineer with over four years of experience building and operating scalable distributed systems in **Go**, **TypeScript**, **Python**, and **Perl**.
 
-Strong sense of ownership, comfortable operating in complex codebases, and focused on writing readable, maintainable code that stands the test of time. Language-agnostic and tool-agnostic; committed to choosing the best approach for the problem at hand.
-Open to discussions about challenging backend, infrastructure, or systems design opportunities.
+Specialized in backend architecture, cloud infrastructure (AWS · GCP · Kubernetes), AI agent frameworks, and blockchain protocols (EVM · Solana/SVM).
+
+**Core strengths**  
+- End-to-end ownership of complex, production-critical services  
+- Designing for reliability, observability, and cost efficiency  
+- Improving system performance and reducing operational overhead  
+- Clean architecture, test-driven development, and long-term maintainability  
+
+**Recent focus**  
+- High-throughput backend systems in Go and TypeScript  
+- AI agent tooling and orchestration  
+- Blockchain infrastructure and smart-contract integrations  
+- Cloud-native services with strong observability and SLO discipline  
+
+Always happy to discuss interesting challenges in backend, distributed systems, or infrastructure.
+
+<div align="left">
+  <a href="mailto:officer47p@gmail.com">
+    <img src="https://img.shields.io/badge/Email-officer47p@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
