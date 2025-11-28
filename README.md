@@ -22,10 +22,10 @@ Always happy to discuss interesting challenges in backend, distributed systems, 
   <a href="mailto:officer47p@gmail.com">
     <img src="https://img.shields.io/badge/Email-officer47p@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/parsahdev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/officer47p">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
