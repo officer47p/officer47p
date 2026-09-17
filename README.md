@@ -5,7 +5,7 @@
 [📧 officer47p@gmail.com](mailto:officer47p@gmail.com) • 
 [GitHub](https://github.com/officer47p) • 
 [LinkedIn](https://www.linkedin.com/in/parsahdev/) • 
-Yerevan, Armenia
+Dubai, United Arab Emirates
 
 ---
 
