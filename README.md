@@ -19,33 +19,47 @@ I like taking ownership of complex problems, improving system reliability, and d
 
 ## Professional Experience
 
-### AI & Blockchain Software Engineer @ [if3.xyz](https://if3.xyz)
-*January 2025 – Present | Remote*
+### Core Blockchain Engineer @ Daisy Smart Chain
+*February 2026 – Present*
 
-- Helped deploy large-scale generative AI and traditional ML models on H100 GPU clusters using tools like vLLM, Kubernetes, and TensorFlow — serving thousands of concurrent users efficiently.
-- Built AI agents with Go, Python, LangChain, and automation workflows.
-- Worked on a trade engine for on-chain perpetual futures and explored algorithmic/AI-driven trading strategies.
+- Deployed and operated monitoring across approximately 20 services and hosts for a custom EVM network, including validator and archive nodes, databases, RPC endpoints, backends, and frontends. Used that visibility to identify bottlenecks and reduce AWS spend by 50%.
+- Designed and implemented a Go rate limiter for HTTP and WebSocket RPC traffic, with service tiers, plans, burst limits, and a React dashboard for policy management.
+- Built a load-testing framework to benchmark chain and RPC behavior under sustained and burst traffic.
+- Wrote a technical roadmap for infrastructure priorities, security milestones, and engineering delivery.
+- Established runbooks for monitoring, node configuration, incident response, and security hardening to improve onboarding and reduce reliance on individual knowledge.
+- Lead recurring sessions on infrastructure operations, security tooling, and engineering practices.
+
+### AI & Blockchain Software Engineer @ [if3.xyz](https://if3.xyz)
+*January 2025 – January 2026*
+
+- Designed and deployed generative AI and traditional ML inference workloads on H200 GPU clusters using Kubernetes, vLLM, and TensorFlow, supporting more than 10,000 concurrent users with 10 GPUs in a six-person team.
+- Built production AI agents and backend workflows in Go and Python using LangChain and n8n.
+- Engineered the trade engine for an on-chain perpetual futures platform in Go, TypeScript, and Rust, including market-maker integrations and transaction workflows.
+- Built and extended Model Context Protocol (MCP) servers connecting developer tools with internal systems to automate operational workflows.
 
 ### Backend & Cloud Technical Lead @ [Karafsapp.com](https://karafsapp.com)
-*May 2024 – January 2025 | Remote*
+*May 2024 – January 2025*
 
-- Took over backend development, rebuilt the team, and helped maintain service for 100,000 daily active users with minimal disruptions.
-- Led refactoring efforts, improved code quality, and addressed security issues.
-- Audited infrastructure across AWS, GCP, CloudFlare, and DigitalOcean, contributing to a 15% reduction in monthly tech costs.
-- Standardized processes, documentation, and onboarding for new engineers.
+- Rebuilt the internal backend engineering function after insourcing the platform from external agencies, maintaining uninterrupted service for 100,000 daily active users.
+- Led cross-functional iOS, Android, data, frontend, and backend teams; stabilized deployments and standardized engineering processes, documentation, and release pipelines.
+- Refactored legacy code and addressed security vulnerabilities in support of pending security certifications.
+- Audited infrastructure across AWS, GCP, Cloudflare, and DigitalOcean, reducing monthly technology costs by 15% in four months.
+- Designed the engineering onboarding process to improve knowledge transfer and new-hire ramp-up.
 
 ### Senior Backend & Cloud Software Engineer @ [Nobitex.ir](https://nobitex.ir)
-*February 2023 – May 2024 | Remote*
+*February 2023 – May 2024*
 
-- Led a team of 9 during a major migration of legacy services to TypeScript and Go, with strong focus on testing (90%+ coverage).
-- Migrated infrastructure from on-prem to Kubernetes, handling containerization, storage, monitoring, and more.
+- Led nine engineers through the migration of legacy JavaScript and Python services to TypeScript and Go.
+- Implemented unit, integration, and end-to-end test suites with over 90% coverage, enabling safer refactoring and faster releases.
+- Migrated on-premise infrastructure and systemd services to cloud-based Kubernetes deployments, covering containerization, configuration and secrets, persistent storage, ingress, and monitoring.
 
 ### Backend Software Engineer @ [Deriv.com](https://deriv.com)
-*December 2020 – February 2023 | Remote (Malaysia)*
+*December 2020 – February 2023*
 
-- Maintained high-volume trading systems serving 70,000+ daily active users.
-- Worked on legacy Perl codebases and helped migrate critical services to TypeScript/Node.js.
-- Diagnosed production issues and delivered internal training on cryptography and cryptocurrency.
+- Maintained high-volume backend systems serving more than 70,000 daily active traders, collaborating with core PostgreSQL and Perl contributors on a 25-year-old codebase.
+- Migrated critical services from Perl to TypeScript and Node.js to improve performance, scalability, and maintainability.
+- Diagnosed and resolved production incidents across deposits, withdrawals, and trading operations.
+- Delivered internal training on cryptography and cryptocurrency fundamentals.
 
 ---
 
